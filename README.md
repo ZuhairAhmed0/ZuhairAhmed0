@@ -1,14 +1,16 @@
 ### Hey nice to meet you <a href="https://zuhair-ahmed.netlify.app/"> I'm Zuhair 👋</a>
-	<h1 align="center">Hi 👋, I'm Zuhair</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+	
+<p>
 
+	I am Zuhair Ahmed, a front end developer in Sudan, <br> I have experience in the latest modern web technologies, <br> I am interested in building a responsive website with high quality and creative functions, <br>  I study in the Faculty of Computer Science , <br> I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platforms 💻.!
+
+	</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhairahmed0&label=Profile%20views&color=0e75b6&style=flat" alt="zuhairahmed0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuhairahmed0" alt="zuhairahmed0" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zuhair_ahmed0" target="blank"><img src="https://img.shields.io/twitter/follow/zuhair_ahmed0?logo=twitter&style=for-the-badge" alt="zuhair_ahmed0" /></a> </p>
 
-- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://zuhair-ahmed.netlify.app/](https://zuhair-ahmed.netlify.app/)
 
