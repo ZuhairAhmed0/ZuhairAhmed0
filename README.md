@@ -32,7 +32,9 @@
 	<a href="https://twitter.com/ohidurbappy"><img src="https://img.shields.io/twitter/follow/Zuhair_Ahmed0" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/zuhair-ahmed-8736b0227"><img src="https://img.shields.io/badge/-122-_?label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-	
+
+
+	I am Zuhair Ahmed, a front end developer in Sudan, I have experience in the latest modern web technologies, I am interested in building a responsive website with high quality and creative functions, I study in the Faculty of Computer Science , I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platforms 💻.!
 	
 	
 
