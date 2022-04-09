@@ -1,12 +1,8 @@
 ### Hey nice to meet you <a href="https://zuhair-ahmed.netlify.app/"> I'm Zuhair 👋</a>
-<main bgColor="#ebf4fa">
-	
 	
 <p align="center">
 <samp>
-  <a href="https://mostaql.com/u/Zuhair_67">
-	<img  alt="Zuhair Mostaql" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mostaql.svg" />
-  </a>
+	
   <a href="https://twitter.com/Zuhair_Ahmed0">
 	<img  alt="Zuhair Bappy's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
   </a>
@@ -33,15 +29,26 @@
 <a href="mailto:zuhairahmed67@gmail.com,..."><img src="http://img.shields.io/badge/zuhairahmed67@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="me@ohidur.com"></a>
 <a href="https://twitter.com/ohidurbappy"><img src="https://img.shields.io/twitter/follow/Zuhair_Ahmed0" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/zuhair-ahmed-8736b0227"><img src="https://img.shields.io/badge/-122-_?label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
+	<br>
+	<a href="https://mostaql.com/u/Zuhair_67">
+	 I'm freelancer on mostaql website
+  </a>
 </p>
 
 
 <p>
-	I am Zuhair Ahmed, a front end developer in Sudan, I have experience in the latest modern web technologies, I am interested in building a responsive website with high quality and creative functions, I study in the Faculty of Computer Science , I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platforms 💻.!
+	I am Zuhair Ahmed, a front end developer in Sudan, <br> I have experience in the latest modern web technologies, <br> I am interested in building a responsive website with high quality and creative functions, <br>  I study in the Faculty of Computer Science , <br> I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platforms 💻.!
+	
 </p>
 
-</main>
-
+<p>
+	- <samp>❤️ Programming is my love </samp> <br>
+	- <samp>👯 Programming is very important </samp> <br>
+	- <samp>❤️ Programming is my Hoppy </samp> <br>
+	- <samp>💬 Ask me about programming</samp> <br>
+	- <span>😄  nice to meet you again</span>
+</P>
+	
 <!--
 **ZuhairAhmed0/ZuhairAhmed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
