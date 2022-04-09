@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:zuhairahmed67@gmail.com,..."><img src="http://img.shields.io/badge/zuhairahmed67@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="me@ohidur.com"></a>
+<a href="mailto:zuhairahmed67@gmail.com,..."><img src="http://img.shields.io/badge/zuhairahmed67@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="zuhairahmed67@gmail.com"></a>
 <a href="https://twitter.com/ohidurbappy"><img src="https://img.shields.io/twitter/follow/Zuhair_Ahmed0" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/zuhair-ahmed-8736b0227"><img src="https://img.shields.io/badge/-122-_?label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
 	<br>
