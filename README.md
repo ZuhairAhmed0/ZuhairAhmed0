@@ -25,7 +25,7 @@
   <a href="https://github.com/ZuhairAhmed0">
 	<img  alt="Zuhair Bappy's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 </a>
-  <a href="https://wa.me/997313128">
+  <a href="https://wa.me/24997313128">
 	 <img  alt="Ohidur Rahman Bappy's Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/whatsapp.svg" />
   </a>
   <a href="https://www.facebook.com/Zuhair.dev">
