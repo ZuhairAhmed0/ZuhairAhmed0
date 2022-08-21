@@ -1,4 +1,4 @@
-هو### Hey nice to meet you <a href="https://zuhair-ahmed.netlify.app/"> I'm Zuhair 👋</a>
+### Hey nice to meet you <a href="https://zuhair-ahmed.netlify.app/"> I'm Zuhair 👋</a>
 
 <p>
 	I am Zuhair Ahmed, a front end developer in Sudan, <br> I have experience in the latest modern web technologies, <br> I am interested in building a responsive website with high quality and creative functions, <br>  I study in the Faculty of Computer Science , <br> I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platforms 💻.!
@@ -16,7 +16,7 @@
 	<h3 align="left">Connect with me:</h3>
 <samp>
 	
-  <a href="https://twitter.com/Zuhair_Ahmed0">
+  <a href="https://twitter.com/Zuhair__Ahmed">
 	<img  alt="Zuhair Bappy's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/zuhair-ahmed-8736b0227/">
@@ -40,7 +40,7 @@
 
 <p align="left">
 <a href="mailto:zuhairahmed67@gmail.com,..."><img src="http://img.shields.io/badge/zuhairahmed67@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="zuhairahmed67@gmail.com"></a>
-<a href="https://twitter.com/Zuhair__Ahmed"><img src="https://img.shields.io/twitter/follow/Zuhair_Ahmed0" alt="Twitter"></a>
+<a href="https://twitter.com/Zuhair__Ahmed"><img src="https://img.shields.io/twitter/follow/Zuhair__Ahmed" alt="Twitter"></a>
 
 <a href="https://www.linkedin.com/in/zuhair-ahmed-8736b0227"><img src="https://img.shields.io/badge/-122-_?label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
 	<br>
